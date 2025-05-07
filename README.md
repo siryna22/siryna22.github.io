@@ -1,7 +1,7 @@
 # siryna22.github.io
 test
 
-Notre analyse se penche sur l'offre culturelle du département de Paris, plus précisément, au sein des 15e, 16e et 18e arrondissements. Elle se décline selon deux aspects: la répartition des équipements culturels que ce soit les musées et les autres bâtiments à caractère culturels ainsi qu'une comparaison entre la qualité de l'offre culturelle au sein de ces arrondissements au regard de variables socio-économiques de la population. Nos données sont majoritairement extraites de l'INSEE et les données géographiques sont issus de data.gouv ainsi que du géoportail de l'urbanisme pour le PLU. 
+Notre analyse se penche sur l'offre culturelle du département de Paris, plus précisément, au sein des 15e, 16e et 18e arrondissements. Elle se décline selon deux aspects: la répartition des équipements culturels que ce soit les musées et les autres bâtiments à caractère culturels ainsi qu'une comparaison entre la qualité de l'offre culturelle au sein de ces arrondissements au regard de variables socio-économiques de la population. Nos données sont majoritairement extraites de l'INSEE et les données géographiques sont issus de data.gouv ainsi que du géoportail de l'urbanisme pour le PLU. Il nous a été difficile de charger l'environnement de charger l'environnement de travail de R à Github. Nous avons donc mis une photo pour montrer les sources que nous avons pu utiliser pour notre projet. 
 ![WhatsApp Image 2025-05-07 à 13 00 18_a143cebb](https://github.com/user-attachments/assets/59d1e0ff-0ff9-44e7-9e41-3ec500a3358c)
 
 <!-- index.html -->
@@ -17,5 +17,6 @@ Notre analyse se penche sur l'offre culturelle du département de Paris, plus pr
 </body>
 </html>
 Cette carte nous montre la répartition des musées et des bâtiments culturels à l'échelle des 15e, 16e et 18e arrondissements de Paris. On peut voir une plus forte présence des bâtiments culturels dans les 15e et 16e arrondissements que dans le 18e arrondissement même s'il est à constater que l'on voit une forte concentration dans le 18e arrondissement vers la limite avec le 9e arrondissement, qui compose le centre de Paris. 
+Néanmoins, il nous a été difficile 
 
 
