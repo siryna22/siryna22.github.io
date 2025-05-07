@@ -17,6 +17,6 @@ Notre analyse se penche sur l'offre culturelle du département de Paris, plus pr
 </body>
 </html>
 Cette carte nous montre la répartition des musées et des bâtiments culturels à l'échelle des 15e, 16e et 18e arrondissements de Paris. On peut voir une plus forte présence des bâtiments culturels dans les 15e et 16e arrondissements que dans le 18e arrondissement même s'il est à constater que l'on voit une forte concentration dans le 18e arrondissement vers la limite avec le 9e arrondissement, qui compose le centre de Paris. 
-Néanmoins, il nous a été difficile 
+Néanmoins, il nous a été difficile de trouver les revenus socio-économiques à l'échelle de Paris au sein d'un fichier csv. Nous n'avons pas pu établr une carte comparative entre la qualité de l'offre culturelle au sein de ces arrondissements et les revenus socio-économiques de la population. Nous avons pu trouver un dossier sur l'INSEE sur le département de Paris qui montre que c'est la catégorie des Cadres qui gagnent plus, au niveau horaire, que les autres catégories socio-professionnelles: les professions intermédiaires, les employés et les ouvriers pour l'année 2022. On peut supposer que la catégorie socio-professionnelle des cadres est beaucoup plus présente dans les 16e et 15e arrondissements quand dans le 18e arrondissement ce qui pourrait expliquer une meilleure accessibilité aux bâtiments culturels et aux musées. 
 
 
