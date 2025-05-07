@@ -1,7 +1,7 @@
 # siryna22.github.io
 test
 
-Notre analyse se penche sur l'offre culturelle du département de Paris, plus précisément, au sein des 15e, 16e et 18e arrondissements. Elle se décline selon deux aspects: la répartition des équipements culturels que ce soit les musées et les autres bâtiments à caractère culturels ainsi qu'une comparaison entre la qualité de l'offre culturelle au sein de ces arrondissements au regard de variables socio-économiques de la population
+Notre analyse se penche sur l'offre culturelle du département de Paris, plus précisément, au sein des 15e, 16e et 18e arrondissements. Elle se décline selon deux aspects: la répartition des équipements culturels que ce soit les musées et les autres bâtiments à caractère culturels ainsi qu'une comparaison entre la qualité de l'offre culturelle au sein de ces arrondissements au regard de variables socio-économiques de la population. Nos données sont majoritairement extraites de l'INSEE et les données géographiques sont issus de data.gouv ainsi que du géoportail de l'urbanisme pour le PLU. 
 <!-- index.html -->
 <!DOCTYPE html>
 <html>
