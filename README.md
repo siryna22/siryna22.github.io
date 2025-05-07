@@ -9,6 +9,7 @@ test
 </head>
 <body>
   <h1>Voici ma carte</h1>
-  <img src="" alt="Carte">
+  <img src="ma-carte.png" alt="Carte">
 </body>
 </html>
+
